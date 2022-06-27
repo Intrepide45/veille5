@@ -1,6 +1,6 @@
-# SECURITE INFORMATIQUE
+### SECURITE INFORMATIQUE
 
-GitHub va rendre obligatoire l’authentification double facteur
+#GitHub va rendre obligatoire l’authentification double facteur
 
 
 ##1 – C’est quoi une authentification double facteur ?
