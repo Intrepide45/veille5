@@ -3,7 +3,7 @@
 #GitHub va rendre obligatoire l’authentification double facteur
 
 
-##1 – C’est quoi une authentification double facteur ?
+1 – C’est quoi une authentification double facteur ?
 
 Lorsque vous créez un compte sur un site Internet ou sur une application, il vous est généralement demandé d’indiquer un identifiant ou une adresse e-mail ainsi qu’un mot de passe. Mot de passe que vous ne devez transmettre à un tiers sous aucun prétexte, mais qui peut malheureusement être piraté à distance ou en interne, laissant alors libre accès à vos données à des individus mal intentionnés. Pour éviter des déconvenues, il est désormais recommandé d’avoir recours à l’authentification forte, et notamment à double facteur (2FA).
 
