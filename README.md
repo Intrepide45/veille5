@@ -1,6 +1,6 @@
 ### SECURITE INFORMATIQUE
 
-#GitHub va rendre obligatoire l’authentification double facteur
+GitHub va rendre obligatoire l’authentification double facteur
 
 
 1 – C’est quoi une authentification double facteur ?
@@ -16,7 +16,7 @@ Sécuriser la chaîne d’approvisionnement du logiciel
 L’initiative vient compléter les actions déjà déployées pour renforcer la protection contre le piratage et la prise de contrôle de comptes de développeurs. La détection/invalidation de mots de passe utilisateur compromis, le support de WebAuthn ou encore la vérification de connexion (login) étendue à l’écosystème npm (Node Package Manager) en font partie.
 
 L’action s’inscrit plus largement dans une démarche visant à sécuriser la chaîne d’approvisionnement des logiciels. Forte d’une communauté revendiquée de 83 millions de développeurs, l’entreprise ambitionne d’entraîner dans son sillage toute une industrie.
-« La chaîne d’approvisionnement du logiciel commence avec les développeurs. Leurs comptes sont régulièrement ciblés par [des acteurs] de l’ingénierie sociale et du détournement de compte. La protection des développeurs contre ces types d’attaques est la première et la plus critique étape vers la sécurisation de la chaîne d’approvisionnement. » C’est en tout cas le message que veut faire passer le RSSI de la firme américaine.
+« La chaîne d’approvisionnement du logiciel commence avec les développeurs. Leurs comptes sont régulièrement ciblés par des acteurs de l’ingénierie sociale et du détournement de compte. La protection des développeurs contre ces types d’attaques est la première et la plus critique étape vers la sécurisation de la chaîne d’approvisionnement. » C’est en tout cas le message que veut faire passer le RSSI de la firme américaine.
 Aussi, GitHub exhorte depuis des mois les développeurs à activer l’authentification multifacteur. L’été dernier, la société a abandonné l’authentification Git par mot de passe au profit de la 2FA. Elle pousse également l’authentification double facteur sur iOS et Android.
 
 Les avantages de l’authentification à deux facteurs (2FA) 
