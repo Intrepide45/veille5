@@ -18,7 +18,7 @@ L’initiative vient compléter les actions déjà déployées pour renforcer la
 L’action s’inscrit plus largement dans une démarche visant à sécuriser la chaîne d’approvisionnement des logiciels. Forte d’une communauté revendiquée de 83 millions de développeurs, l’entreprise ambitionne d’entraîner dans son sillage toute une industrie.
 « La chaîne d’approvisionnement du logiciel commence avec les développeurs. Leurs comptes sont régulièrement ciblés par des acteurs de l’ingénierie sociale et du détournement de compte. La protection des développeurs contre ces types d’attaques est la première et la plus critique étape vers la sécurisation de la chaîne d’approvisionnement. » C’est en tout cas le message que veut faire passer le RSSI de la firme américaine.
 Aussi, GitHub exhorte depuis des mois les développeurs à activer l’authentification multifacteur. L’été dernier, la société a abandonné l’authentification Git par mot de passe au profit de la 2FA. Elle pousse également l’authentification double facteur sur iOS et Android.
-
+<div style="test-align:justify">
 Les avantages de l’authentification à deux facteurs (2FA) 
 L’authentification double facteur (2FA) a de multiples avantages, comme expliqué ci-dessous : 
 Amélioration de la sécurité des données
@@ -27,4 +27,4 @@ Facile d’utilisation dans la majorité des cas
 La majorité des procédés proposés pour l’authentification à double facteur (2FA) sont faciles d’utilisation et accessibles à tous. En effet, ils ne nécessitent que très peu de matériel, à savoir un téléphone mobile, une clé cryptographique ou encore une connexion Internet. Particulièrement intuitifs, les étapes à suivre sont généralement bien expliquées pour permettre au plus grand nombre de les suivre sans difficulté majeure. 
 Accessible sur tous types de supports 
 Que vous vous connectiez sur ordinateur, téléphone mobile ou encore tablette, l’authentification à deux facteurs (2FA) est accessible sur l’ensemble des supports numériques. Ainsi, vos données sont protégées quel que soit le canal que vous utilisez. Vous pouvez donc en changer selon vos envies et vos besoins, sans pour autant mettre en péril la sécurité de vos comptes. 
-<iframe width="542" height="305" src="https://www.youtube.com/embed/wQGWJFkTBzM" title="Comment activer l’authentification à double facteur sur une boite mail Gandi Roundcube ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="542" height="305" src="https://www.youtube.com/embed/wQGWJFkTBzM" title="Comment activer l’authentification à double facteur sur une boite mail Gandi Roundcube ?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
