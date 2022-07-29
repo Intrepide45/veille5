@@ -8,7 +8,7 @@ GitHub va rendre obligatoire l’authentification double facteur
 Lorsque vous créez un compte sur un site Internet ou sur une application, il vous est généralement demandé d’indiquer un identifiant ou une adresse e-mail ainsi qu’un mot de passe. Mot de passe que vous ne devez transmettre à un tiers sous aucun prétexte, mais qui peut malheureusement être piraté à distance ou en interne, laissant alors libre accès à vos données à des individus mal intentionnés. Pour éviter des déconvenues, il est désormais recommandé d’avoir recours à l’authentification forte, et notamment à double facteur (2FA).
 
 Tous les développeurs qui contribuent au code partagé sur GitHub.com devront utiliser l’authentification double facteur à horizon 2023.
-La filiale de Microsoft va exiger que tous les utilisateurs qui contribuent au code partagé sur la plateforme GitHub.com utilisent un mécanisme d’authentification double facteur (2FA).
+La filiale de Microsoft va exiger que tous les utilisateurs qui contribuent au code partagé sur la plateforme GitHub.com utilisent un mécanisme d’authentification double facteur (2FA).<br>
 Ils ont jusqu’à la fin d’année 2023 pour basculer massivement vers l’authentification multifacteur. « GitHub s’engage à ce que la sécurité forte des comptes ne limite pas une grande expérience développeur. Notre échéance – la fin 2023 – nous fournit l’opportunité d’optimiser cette démarche », déclare dans un billet de blog Mike Hanley, CSO de GitHub.
 
 « À mesure que les normes évoluent, ajoute le directeur de la sécurité informatique (chief security officer), nous continuerons d’explorer activement de nouvelles façons d’authentifier en toute sécurité les utilisateurs, y compris via l’authentification sans mot de passe. »
